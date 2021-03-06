@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.22",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -12,11 +12,6 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
-		},
-		{
-			"Name": "AllrightRig",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6e6ba21873114a77af5e44981a4c3588"
 		},
 		{
 			"Name": "Niagara",
